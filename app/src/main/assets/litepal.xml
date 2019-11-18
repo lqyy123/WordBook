@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <litepal>
     <dbname value="WordBook" />
-    <version value="12" />
+    <version value="14" />
     <list>
         <mapping class="com.hwhhhh.wordbook.entity.UserInfo"></mapping>
         <mapping class="com.hwhhhh.wordbook.entity.WordInfo"></mapping>
